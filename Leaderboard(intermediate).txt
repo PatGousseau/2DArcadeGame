@@ -1,0 +1,8 @@
+goob 17
+pz 0
+CODRAC 24
+Pat 18
+PAt 2
+Pat 2
+Pat 1
+Pat 1
